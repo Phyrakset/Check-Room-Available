@@ -21,7 +21,7 @@ Check Available Room is a Java application that allows users to check the availa
 
 To get started with the Check Available Room application, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/your-username/check-available-room.git](https://github.com/Phyrakset/Check-Room-Available.git)`
+1. Clone the repository: `git clone https://github.com/Phyrakset/Check-Room-Available.git`
 2. Open the project in NetBeans IDE.
 3. Set up the MySQL database and configure the database connection in the project.
 4. Build and run the application.
