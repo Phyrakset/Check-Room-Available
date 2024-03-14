@@ -42,4 +42,4 @@ Contributions to the Check Available Room application are welcome! If you find a
 
 ## Contact
 
-For any inquiries or questions, please contact [This my Email :](phyrakset007@gmail.com).
+For any inquiries or questions, please contact : phyrakset007@gmail.com .
